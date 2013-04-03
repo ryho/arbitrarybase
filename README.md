@@ -12,7 +12,7 @@ Features:
  * set input base to arbitrary base (2-36) [type "input base" then a number]
  * set output base to arbitrary base (2-36) [type "output base" then a number]
  * change input base and output base to different things to use as a base converter
- * numbers with a fracitonal component work properly in all bases
+ * numbers with a fractional component work properly in all bases
  * dynamic input in the most common bases, regardless of input/output base
    * base 2 [0b*]
    * base 8 [0*]
