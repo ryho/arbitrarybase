@@ -14,10 +14,10 @@ Features:
  * change input base and output base to different things to use as a base converter
  * numbers with a fracitonal component work properly in all bases
  * dynamic input in the most common bases, regardless of input/output base
- *    base 2 [0b*]
- * 		base 8 [0*]
- * 		base 10 [0b*]
- *		base 16 [0x*] or [0h*]
+   * base 2 [0b*]
+   * base 8 [0*]
+   * base 10 [0b*]
+   * base 16 [0x*] or [0h*]
  * use as many nested parenthesis as you want
  * 5(4) returns same thing as 5*(4)
  * .5 is the same thing as 0.5
