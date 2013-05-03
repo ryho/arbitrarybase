@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
-class CalculatorApp {
+class Arbitrary {
   private static boolean keepRunning = true;
 	private static Scanner console = new Scanner(System.in);
 	private static int base=10;
