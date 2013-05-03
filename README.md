@@ -22,7 +22,6 @@ Features:
  * automatically adjusts max number of digits to print based on bits of precision of a double and the output base
 
 Directions:
- * Download the two Java files
- * Open Terminal and navigate to the folder where you saved the two files
- * "javac Arbitrary.java"
+ * Download all files
+ * Open Terminal and navigate to the folder where you saved them
  * "java Arbitrary"
