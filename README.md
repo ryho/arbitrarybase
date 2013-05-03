@@ -3,10 +3,6 @@ arbitrarybase
 
 An arbitrary base calculator. Any base 2-36.
 
-CalculatorApp.java interacts with the command line, changes settings, prints answers, and calls Calculator if the user gave a calculation instead of chaning settings
-
-Calculator.java receives the users command, parses it into numbers and operations, and returns a numerical answer.
-
 Features:
  * four function calculator [*,/,+,-]
  * set input base to arbitrary base (2-36) [type "input base" then a number]
@@ -24,3 +20,9 @@ Features:
  * follows order of operations, PMDAS
  * numbers are stored in 64 bit double precision
  * automatically adjusts max number of digits to print based on bits of precision of a double and the output base
+
+Directions:
+ * Download the two Java files
+ * Open Terminal and navigate to the folder where you saved the two files
+ * "javac Arbitrary.java"
+ * "java Arbitrary"
